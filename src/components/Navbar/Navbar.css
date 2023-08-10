@@ -1,0 +1,26 @@
+.navbar{
+    height: 90px;
+    margin-top: 2px;
+}
+
+.navItems{
+    height: 20px;
+    float: left;
+    font-size: 18px;
+    margin-left: 60px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.navItems:hover{
+    color: orange;
+    cursor: pointer;
+}
+
+.pageNav{
+    margin-top: 20px;
+}
+
+.contact:hover{
+    color: white;
+}

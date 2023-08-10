@@ -1,0 +1,32 @@
+.card{
+    border: 7px solid rgba(252, 167, 31, 0.608);
+    width: 94.2%;
+    border-radius: 20px;
+    padding-left: 25px;
+    padding-bottom: 15px;
+    margin-top: 20px;
+}
+
+.card-heading{
+    margin-top:10px;
+    font-size: 25px;
+}
+
+.card-details{
+    font-size: 16px;
+    margin-top: 15px;
+    color: grey;
+}
+
+.duration{
+  font-size: 16px;
+  margin-top: 12px;
+  color: grey;
+  font-style: italic;
+}
+ 
+  @media screen and (max-width: 480px){
+    .card{
+      width: auto;
+    }
+  }

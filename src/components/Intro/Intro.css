@@ -1,0 +1,66 @@
+.intro-parent{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    height: 650px;
+}
+
+.name{
+    margin-left: 40px;
+    margin-top: 60px;
+    margin-right: 50px;
+    font-size: 60px;
+    width: 1500px;
+    
+}
+
+.rname{
+    color: #f99e14;
+}
+
+.about{
+    font-size: 25px;
+    margin-top: 5px;
+    color: grey;
+}
+
+.image{
+    /* position: absolute; */
+    margin-top: -350px;
+    height: 650px;
+    margin-left: 780px;
+}
+
+.icons{
+    margin-top: 3rem;
+    margin-left: -250px;
+    display: flex;
+    gap: 2.5rem;
+    transform: scale(0.7);
+}
+
+.lc{
+    transform: scale(0.44);
+    margin-top: -70px;
+    margin-left: -72px;
+    margin-right: -50x;
+}
+
+.v1{
+    position: absolute;
+    z-index: -2;
+}
+
+.v2{
+    position: absolute;
+    z-index: -1;
+}
+
+.person{
+    margin-top: -120px;
+}
+
+.viewPdf{
+    color: white;
+    text-decoration: none;
+}

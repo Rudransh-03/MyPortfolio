@@ -1,0 +1,36 @@
+.education{
+  margin-top: 20px;
+  margin-left: 38px;
+}
+
+.educationHeading{
+  font-size: 40px;
+  width: 50%;
+  float: left;
+}
+
+.eimg{
+  margin-top: -35px;
+  margin-left: -440px;
+}
+
+.education-table {
+    margin-top: 50px;
+    margin-left: 16px;
+    border-collapse: collapse; /* Collapse the borders to avoid double lines */
+    width: 94%;
+  }
+  
+  .education-table th,
+  .education-table td {
+    border: 1px solid #f09b13; /* Add borders to cells */
+    padding: 8px; /* Customize cell padding */
+    text-align: left; /* Set cell text alignment */
+    height: 30px;
+  }
+  
+  /* Customize specific cells if needed */
+  .education-table th {
+    background-color: #fbca5f; /* Set background color for header cells */
+    font-weight: bold;
+  }
